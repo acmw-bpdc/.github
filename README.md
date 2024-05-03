@@ -12,7 +12,6 @@
 
 
 ## About Us
-
 ACM-W BPDC (Association for Computing Machinery - Women in Computing, Birla Institute of Technology, Pilani Dubai Campus) is a local chapter of ACM-W dedicated to supporting, celebrating, and advocating for women in computing. Founded in 2019 by Sabiha Shaik and Akanksha Mathur, our aim is to inspire women in computing by offering programs and services that enhance their skills and broaden their horizons.
 
 ## Our Mission
