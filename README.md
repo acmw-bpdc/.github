@@ -33,7 +33,6 @@ Stay connected with ACM-W BPDC and be part of our growing community:
 
 - **Website**: [acmwdubai.com](https://acmwdubai.com)
 - **GitHub**: [ACM-W BPDC GitHub](https://github.com/acm-w-bpdc)
-- **Twitter**: [@acm_w_bpdc](https://twitter.com/acm_w_bpdc)
 - **LinkedIn**: [ACM-W BPDC](https://www.linkedin.com/company/acm-w-bpdc)
 
 ## Let's Grow Together
