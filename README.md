@@ -1,8 +1,7 @@
 ### Hi there 👋
 
-
+## <p align="center">Welcome to ACM-W BPDC</p>
 <p align="center">
-  <h1>Welcome to ACM-W BPDC<h1>
   <a href="https://www.acm.org/women">
     <img src="acmwlogo.png" alt="ACM-W Logo" width="200"/>
   </a>
