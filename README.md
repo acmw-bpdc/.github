@@ -8,7 +8,7 @@
 </p>
 
 
-## <p align="center">👩‍💻 Advancing women in computing, one line of code at a time👩‍💼</p>
+**<p align="center">👩‍💻 Advancing women in computing, one line of code at a time👩‍💼</p>**
 
 
 ## About Us
