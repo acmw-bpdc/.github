@@ -3,7 +3,8 @@
 # Welcome to ACM-W BPDC
 
 👩‍💻 Empowering Women in Computing 👩‍💼
-[<img src="acmwlogo (1).png" alt="ACM-W Logo" width="00"/>](https://www.acm.org/women)
+[![ACM-W Logo](acmwlogo (1).png){width=200px}](https://www.acm.org/women)
+
 
 ## About Us
 
