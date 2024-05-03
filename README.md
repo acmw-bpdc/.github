@@ -4,7 +4,7 @@
 
 👩‍💻 Empowering Women in Computing 👩‍💼
 
-[![ACM-W Logo](acmwlogo.png)](https://www.acm.org/women)
+[![ACM-W Logo](acmwlogo.png){width=200px}](https://www.acm.org/women)
 
 ## About Us
 
