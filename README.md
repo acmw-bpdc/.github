@@ -35,9 +35,9 @@ Join our vibrant community of women in computing! Whether you're a student, prof
 
 Stay connected with ACM-W BPDC and be part of our growing community:
 
-- [**Website**](https://www.acmbpdc.org/w)🔗
-- [**GitHub**](https://github.com/acmw-bpdc)🐙
-- [**LinkedIn**](https://ae.linkedin.com/company/acmw-bpdc)💼
+- [**Website**](https://www.acmbpdc.org/w) 🔗
+- [**GitHub**](https://github.com/acmw-bpdc) 🐙
+- [**LinkedIn**](https://ae.linkedin.com/company/acmw-bpdc) 💼
 
 
 ## Let's Grow Together
