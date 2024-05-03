@@ -1,11 +1,11 @@
 ### Hi there 👋
 
-# Welcome to ACM-W BPDC
+# Welcome to ACM-W BPDC [<img src="acmwlogo.png" alt="ACM-W Logo" width="200"/>](https://www.acm.org/women)
 
 👩‍💻 Empowering Women in Computing 👩‍💼
 
 
-[<img src="acmwlogo.png" alt="ACM-W Logo" width="200"/>](https://www.acm.org/women)
+
 
 
 ## About Us
