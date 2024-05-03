@@ -38,6 +38,7 @@ Stay connected with ACM-W BPDC and be part of our growing community:
 - [**Website**](https://www.acmbpdc.org/w) 🔗
 - [**GitHub**](https://github.com/acmw-bpdc) 🐙
 - [**LinkedIn**](https://ae.linkedin.com/company/acmw-bpdc) 💼
+- [**Instagram**](https://www.instagram.com/acmw.bpdc/) 📱
 
 
 ## Let's Grow Together
