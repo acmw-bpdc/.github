@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-## <p align="center">Welcome to ACM-W BPDC</p>
+## <h1 align="center">Welcome to ACM-W BPDC</h1>
 <p align="center">
   <a href="https://www.acm.org/women">
     <img src="acmwlogo.png" alt="ACM-W Logo" width="200"/>
@@ -8,7 +8,7 @@
 </p>
 
 
-👩‍💻 Empowering Women in Computing 👩‍💼
+## <p align="center">👩‍💻 Empowering Women in Computing 👩‍💼</p>
 
 
 ## About Us
