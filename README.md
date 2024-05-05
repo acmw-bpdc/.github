@@ -44,3 +44,5 @@ Stay connected with ACM-W BPDC and be part of our growing community:
 ## Let's Grow Together
 
 Join us in fostering an inclusive and supportive environment for women in computing. Together, we can break barriers and empower the next generation of female technologists! 💪👩‍💻
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut-vertical)](https://github.com/acmw-bpdc/github-readme-stats)
