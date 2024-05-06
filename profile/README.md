@@ -3,7 +3,7 @@
 **<h1 align="center">Welcome to ACM-W BPDC</h1>**
 <p align="center">
   <a href="https://www.acm.org/women">
-    <img src="acmwlogo.png" alt="ACM-W Logo" width="200"/>
+    <img src="https://github.com/acmw-bpdc/.github/raw/main/assets/acmwlogo.png" alt="ACM-W Logo" width="200"/>
   </a>
 </p>
 
